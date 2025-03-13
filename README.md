@@ -4,13 +4,13 @@
 - **Router Name:** Floor14
 - **Switch Name:** Room-146
 - **IP Addressing:** IPv4 & IPv6 configured for all devices
-- **VLANs:** VLAN 1 used for management
+- **VLANs:** VLAN 1 
 - **Routing:** Static 
 - **Security:**
   - Console and VTY line passwords set (`cisco`)
   - Enable secret password (`class`)
   - Service password encryption enabled
-- **Connectivity:** All devices successfully ping each other (IPv4 & IPv6)
+- **Connectivity:** Ping success rate for all devices 100% for IPV4 and IPV6
 
 #### **Router Floor14**
 | Interface | IPv4 Address | Subnet Mask | IPv6 Address |
